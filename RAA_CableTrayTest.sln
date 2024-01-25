@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAA_CableTrayTest", "RAA_CableTrayTest\RAA_CableTrayTest.csproj", "{71340FD6-AC29-4C12-8222-545CB7684653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		2021Debug|Any CPU = 2021Debug|Any CPU
+		2021Release|Any CPU = 2021Release|Any CPU
+		2022Debug|Any CPU = 2022Debug|Any CPU
+		2022Release|Any CPU = 2022Release|Any CPU
+		2023Debug|Any CPU = 2023Debug|Any CPU
+		2023Release|Any CPU = 2023Release|Any CPU
+		2024Debug|Any CPU = 2024Debug|Any CPU
+		2024Release|Any CPU = 2024Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71340FD6-AC29-4C12-8222-545CB7684653}.2021Debug|Any CPU.ActiveCfg = 2021Debug|Any CPU
+		{71340FD6-AC29-4C12-8222-545CB7684653}.2021Debug|Any CPU.Build.0 = 2021Debug|Any CPU
+		{71340FD6-AC29-4C12-8222-545CB7684653}.2021Release|Any CPU.ActiveCfg = 2021Release|Any CPU
+		{71340FD6-AC29-4C12-8222-545CB7684653}.2021Release|Any CPU.Build.0 = 2021Release|Any CPU
+		{71340FD6-AC29-4C12-8222-545CB7684653}.2022Debug|Any CPU.ActiveCfg = 2022Debug|Any CPU
+		{71340FD6-AC29-4C12-8222-545CB7684653}.2022Debug|Any CPU.Build.0 = 2022Debug|Any CPU
+		{71340FD6-AC29-4C12-8222-545CB7684653}.2022Release|Any CPU.ActiveCfg = 2022Release|Any CPU
+		{71340FD6-AC29-4C12-8222-545CB7684653}.2022Release|Any CPU.Build.0 = 2022Release|Any CPU
+		{71340FD6-AC29-4C12-8222-545CB7684653}.2023Debug|Any CPU.ActiveCfg = 2023Debug|Any CPU
+		{71340FD6-AC29-4C12-8222-545CB7684653}.2023Debug|Any CPU.Build.0 = 2023Debug|Any CPU
+		{71340FD6-AC29-4C12-8222-545CB7684653}.2023Release|Any CPU.ActiveCfg = 2023Release|Any CPU
+		{71340FD6-AC29-4C12-8222-545CB7684653}.2023Release|Any CPU.Build.0 = 2023Release|Any CPU
+		{71340FD6-AC29-4C12-8222-545CB7684653}.2024Debug|Any CPU.ActiveCfg = 2024Debug|Any CPU
+		{71340FD6-AC29-4C12-8222-545CB7684653}.2024Debug|Any CPU.Build.0 = 2024Debug|Any CPU
+		{71340FD6-AC29-4C12-8222-545CB7684653}.2024Release|Any CPU.ActiveCfg = 2024Release|Any CPU
+		{71340FD6-AC29-4C12-8222-545CB7684653}.2024Release|Any CPU.Build.0 = 2024Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9553C722-BDBC-499E-881B-15C7B54FD171}
+	EndGlobalSection
+EndGlobal

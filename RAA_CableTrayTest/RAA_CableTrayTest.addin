@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_CableTrayTest - Command 1</Text>
+    <Description>Some description for RAA_CableTrayTest</Description>
+    <Assembly>RAA_CableTrayTest.dll</Assembly>
+    <FullClassName>RAA_CableTrayTest.Command1</FullClassName>
+    <ClientId>71340fd6-ac29-4c12-8222-545cb7684653</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_CableTrayTest - Command 2</Text>
+    <Description>Some description for RAA_CableTrayTest</Description>
+    <Assembly>RAA_CableTrayTest.dll</Assembly>
+    <FullClassName>RAA_CableTrayTest.Command2</FullClassName>
+    <ClientId>5707ab06-e861-4012-9393-9dadfc56978f</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAA_CableTrayTest</Name>
+    <Assembly>RAA_CableTrayTest.dll</Assembly>
+    <FullClassName>RAA_CableTrayTest.App</FullClassName>
+    <ClientId>eb28a36e-26c8-4921-a559-d2b6513ea5cc</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
